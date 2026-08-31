@@ -1,7 +1,7 @@
 import { useSelector } from "react-redux";
 import { useEffect } from "react";
 import { FaTimes } from "react-icons/fa";
-import Auth from "../pages/Auth";
+import Auth from "../pages/Auth.js";
 
 function AuthModel({ onClose }) {
 
