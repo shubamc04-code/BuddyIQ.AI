@@ -12,7 +12,7 @@ import InterviewHistory from "./pages/interviewHistory.jsx";
 import Pricing from "./pages/Pricing.jsx";
 import InterviewReports from "./pages/InterviewReports.jsx";
 
-export const ServerUrl = "http://localhost:8000";
+export const ServerUrl = "https://buddyiq-ai.onrender.com";
 
 function App() {
 
